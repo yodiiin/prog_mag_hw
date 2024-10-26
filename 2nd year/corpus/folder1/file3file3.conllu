@@ -1,0 +1,45 @@
+# text = Функция makedirs() модуля os рекурсивно создает все промежуточные каталоги, если они не существуют.
+1	Функция	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+2	makedirs	makedirs	PROPN	_	Foreign=Yes	1	appos	_	_
+3	(	(	PUNCT	_	_	4	punct	_	_
+4	)	)	PUNCT	_	_	2	punct	_	_
+5	модуля	модуль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+6	os	os	PROPN	_	Foreign=Yes	5	appos	_	_
+7	рекурсивно	рекурсивный	ADV	_	Degree=Pos	8	advmod	_	_
+8	создает	создавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+9	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur	11	det	_	_
+10	промежуточные	промежуточный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	каталоги	каталог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	если	если	SCONJ	_	_	16	mark	_	_
+14	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	16	nsubj	_	_
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	_
+16	существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+
+
+# text = Функция работает подобно os.mkdir(), но создает все каталоги промежуточного уровня, необходимые для хранения конечного каталога.
+18	Функция	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+19	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+20	подобно	подобно	ADP	_	_	21	case	_	_
+21	os.mkdir	os.mkdir	X	_	Foreign=Yes	19	obl	_	_
+22	(	(	PUNCT	_	_	23	punct	_	_
+23	)	)	PUNCT	_	_	19	punct	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	но	но	CCONJ	_	_	26	cc	_	_
+26	создает	создавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+27	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur	28	det	_	_
+28	каталоги	каталог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	26	obj	_	_
+29	промежуточного	промежуточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	необходимые	необходимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	28	amod	_	_
+33	для	для	ADP	_	_	34	case	_	_
+34	хранения	хранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	obl	_	_
+35	конечного	конечный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	каталога	каталог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+37	.	.	PUNCT	_	_	19	punct	_	_
+
+
+

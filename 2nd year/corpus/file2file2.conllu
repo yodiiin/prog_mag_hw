@@ -1,0 +1,135 @@
+# text = Голод в тот год еще не отпустил, а нас у матери было трое, я самый старший.
+1	Голод	голод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
+4	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+5	еще	ещё	ADV	_	Degree=Pos	7	advmod	_	_
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	_
+7	отпустил	отпустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	а	а	CCONJ	_	_	13	cc	_	_
+10	нас	нас	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|Person=First	13	obj	_	_
+11	у	у	ADP	_	_	12	case	_	_
+12	матери	мать	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
+13	было	было	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+14	трое	трое	NUM	_	Case=Nom	13	nsubj	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	18	nsubj	_	_
+17	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	старший	старший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+
+
+# text = Весной, когда пришлось особенно туго, я глотал сам и заставлял глотать сестренку глазки проросшей картошки и зерна, овса и ржи, чтобы развести посадки в животе, — тогда не придется все время думать о еде.
+20	Весной	весна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	obl	_	_
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	когда	когда	SCONJ	_	_	23	mark	_	_
+23	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	acl:relcl	_	_
+24	особенно	особенно	ADV	_	Degree=Pos	25	advmod	_	_
+25	туго	туго	ADV	_	Degree=Pos	23	nsubj	_	_
+26	,	,	PUNCT	_	_	23	punct	_	_
+27	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	28	nsubj	_	_
+28	глотал	глотать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+29	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	acl	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	заставлял	заставлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	conj	_	_
+32	глотать	глотать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	31	xcomp	_	_
+33	сестренку	сестрёнка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
+34	глазки	глазки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	33	nmod	_	_
+35	проросшей	прорасти	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	36	amod	_	_
+36	картошки	картошка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	зерна	зерно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	conj	_	_
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	овса	овса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	36	conj	_	_
+41	и	и	CCONJ	_	_	42	cc	_	_
+42	ржи	ржа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	36	conj	_	_
+43	,	,	PUNCT	_	_	45	punct	_	_
+44	чтобы	чтобы	SCONJ	_	_	45	mark	_	_
+45	развести	развести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	advcl	_	_
+46	посадки	посадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	45	obj	_	_
+47	в	в	ADP	_	_	48	case	_	_
+48	животе	живот	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	46	nmod	_	_
+49	,	,	PUNCT	_	_	53	punct	_	_
+50	—	—	PUNCT	_	_	53	punct	_	_
+51	тогда	тогда	ADV	_	Degree=Pos	53	advmod	_	_
+52	не	не	PART	_	Polarity=Neg	53	advmod	_	_
+53	придется	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	28	parataxis	_	_
+54	все	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	55	det	_	_
+55	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	56	obl	_	_
+56	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	53	csubj	_	_
+57	о	о	ADP	_	_	58	case	_	_
+58	еде	еда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	56	obl	_	_
+59	.	.	PUNCT	_	_	28	punct	_	_
+
+
+
+# text = Все лето мы старательно поливали свои семена чистой ангарской водичкой, но урожая почему-то не дождались или он был настолько мал, что мы его не почувствовали.
+60	Все	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	61	det	_	_
+61	лето	лето	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	64	obj	_	_
+62	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	64	nsubj	_	_
+63	старательно	старательно	ADV	_	Degree=Pos	64	advmod	_	_
+64	поливали	поливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+65	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur	66	det	_	_
+66	семена	семя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	64	obj	_	_
+67	чистой	чистый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	_
+68	ангарской	ангарский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	_
+69	водичкой	водичка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	64	obl	_	_
+70	,	,	PUNCT	_	_	77	punct	_	_
+71	но	но	CCONJ	_	_	77	cc	_	_
+72	урожая	урожай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	77	nsubj	_	_
+73	почему	почему	ADV	_	Degree=Pos	77	advmod	_	_
+74	-	-	ADV	_	Degree=Pos	77	advmod	_	_
+75	то	то	ADV	_	Degree=Pos	77	advmod	_	_
+76	не	не	PART	_	Polarity=Neg	77	advmod	_	_
+77	дождались	дождаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	64	conj	_	_
+78	или	или	CCONJ	_	_	82	cc	_	_
+79	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	82	nsubj	_	_
+80	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	82	cop	_	_
+81	настолько	настолько	ADV	_	Degree=Pos	82	advmod	_	_
+82	мал	мал	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	64	conj	_	_
+83	,	,	PUNCT	_	_	88	punct	_	_
+84	что	что	SCONJ	_	_	88	mark	_	_
+85	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	88	nsubj	_	_
+86	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	88	obj	_	_
+87	не	не	PART	_	Polarity=Neg	88	advmod	_	_
+88	почувствовали	почувствовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	82	ccomp	_	_
+89	.	.	PUNCT	_	_	64	punct	_	_
+
+
+
+# text = Впрочем, я думаю, что затея эта не совсем бесполезная и человеку когда-нибудь еще пригодится, а мы по неопытности что-то там делали неверно.
+90	Впрочем	впрочем	ADV	_	Degree=Pos	93	parataxis	_	_
+91	,	,	PUNCT	_	_	90	punct	_	_
+92	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	93	nsubj	_	_
+93	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+94	,	,	PUNCT	_	_	100	punct	_	_
+95	что	что	SCONJ	_	_	100	mark	_	_
+96	затея	затея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	100	nsubj	_	_
+97	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	96	det	_	_
+98	не	не	PART	_	Polarity=Neg	99	advmod	_	_
+99	совсем	совсем	ADV	_	Degree=Pos	100	advmod	_	_
+100	бесполезная	бесполезный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	93	ccomp	_	_
+101	и	и	CCONJ	_	_	102	cc	_	_
+102	человеку	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	100	conj	_	_
+103	когда	когда	ADV	_	Degree=Pos	107	advmod	_	_
+104	-	-	ADV	_	Degree=Pos	107	advmod	_	_
+105	нибудь	нибудь	ADV	_	Degree=Pos	107	advmod	_	_
+106	еще	ещё	ADV	_	Degree=Pos	107	advmod	_	_
+107	пригодится	пригодиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	100	conj	_	_
+108	,	,	PUNCT	_	_	117	punct	_	_
+109	а	а	CCONJ	_	_	117	cc	_	_
+110	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	117	nsubj	_	_
+111	по	по	ADP	_	_	112	case	_	_
+112	неопытности	неопытность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	117	obl	_	_
+113	что	что	PRON	_	Case=Acc	117	obj	_	_
+114	-	-	PRON	_	Case=Acc	117	obj	_	_
+115	то	то	PRON	_	Case=Acc	117	obj	_	_
+116	там	там	ADV	_	Degree=Pos	117	advmod	_	_
+117	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	100	conj	_	_
+118	неверно	неверно	ADV	_	Degree=Pos	117	advmod	_	_
+119	.	.	PUNCT	_	_	93	punct	_	_
+
+
+
