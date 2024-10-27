@@ -1,0 +1,160 @@
+# text = Бойня в Рок-Спрингсе (англ. Rock Springs massacre), также известная как бунт в Рок-Спрингсе (англ. Rock Springs Riot) — массовое убийство китайцев белыми рабочими-иммигрантами, произошедшее 2 сентября 1885 года в американском городке Рок-Спрингс, расположенном на территории Вайоминг.
+1	Бойня	бойня	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	Рок	рок	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	-	-	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+5	Спрингсе	спрингс	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+6	(	(	PUNCT	_	_	9	punct	_	_
+7	англ	англ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	Rock	rock	X	_	Foreign=Yes	1	appos	_	_
+10	Springs	springs	X	_	Foreign=Yes	9	flat:foreign	_	_
+11	massacre	massacre	X	_	Foreign=Yes	9	flat:foreign	_	_
+12	)	)	PUNCT	_	_	9	punct	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	также	также	ADV	_	Degree=Pos	15	advmod	_	_
+15	известная	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	_
+16	как	как	SCONJ	_	_	17	case	_	_
+17	бунт	бунт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	obl	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	Рок	рок	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	_
+20	-	-	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	_
+21	Спрингсе	спрингс	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	_
+22	(	(	PUNCT	_	_	25	punct	_	_
+23	англ	англ	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+24	.	.	PUNCT	_	_	23	punct	_	_
+25	Rock	rock	X	_	Foreign=Yes	17	appos	_	_
+26	Springs	springs	X	_	Foreign=Yes	25	flat:foreign	_	_
+27	Riot	riot	X	_	Foreign=Yes	25	flat:foreign	_	_
+28	)	)	PUNCT	_	_	25	punct	_	_
+29	—	—	PUNCT	_	_	31	punct	_	_
+30	массовое	массовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	убийство	убийство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+32	китайцев	китаец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+33	белыми	белый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	34	amod	_	_
+34	рабочими	рабочий	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	31	nmod	_	_
+35	-	-	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	31	nmod	_	_
+36	иммигрантами	иммигрант	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	31	nmod	_	_
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	произошедшее	произойти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	31	acl	_	_
+39	2	2	ADJ	_	_	38	obl	_	_
+40	сентября	сентябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	flat	_	_
+41	1885	1885	ADJ	_	_	42	amod	_	_
+42	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+43	в	в	ADP	_	_	45	case	_	_
+44	американском	американский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+45	городке	городок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	38	obl	_	_
+46	Рок	рок	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	appos	_	_
+47	-	-	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	appos	_	_
+48	Спрингс	спрингс	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	appos	_	_
+49	,	,	PUNCT	_	_	50	punct	_	_
+50	расположенном	расположенном	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+51	на	на	ADP	_	_	52	case	_	_
+52	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	50	obl	_	_
+53	Вайоминг	вайоминг	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	52	nmod	_	_
+54	.	.	PUNCT	_	_	31	punct	_	_
+
+
+
+# text = Главными причинами столкновения были расовая напряжённость и политика компании «Union Pacific Coal Department», согласно которой китайские рабочие-шахтёры получали меньшую заработную плату, чем белые иммигранты.
+55	Главными	главный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	56	amod	_	_
+56	причинами	причина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	0	ROOT	_	_
+57	столкновения	столкновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	56	nmod	_	_
+58	были	были	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	56	cop	_	_
+59	расовая	расовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	60	amod	_	_
+60	напряжённость	напряжённость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	56	nsubj	_	_
+61	и	и	CCONJ	_	_	62	cc	_	_
+62	политика	политика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	60	conj	_	_
+63	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	62	nmod	_	_
+64	«	"	PUNCT	_	_	65	punct	_	_
+65	Union	union	X	_	Foreign=Yes	63	appos	_	_
+66	Pacific	pacific	X	_	Foreign=Yes	65	flat:foreign	_	_
+67	Coal	coal	X	_	Foreign=Yes	65	flat:foreign	_	_
+68	Department	department	X	_	Foreign=Yes	65	flat:foreign	_	_
+69	»	"	PUNCT	_	_	65	punct	_	_
+70	,	,	PUNCT	_	_	77	punct	_	_
+71	согласно	согласно	ADP	_	_	72	case	_	_
+72	которой	которой	PRON	_	Case=Dat|Gender=Fem|Number=Sing	77	obl	_	_
+73	китайские	китайский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	74	amod	_	_
+74	рабочие	рабочий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	77	nsubj	_	_
+75	-	-	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	77	nsubj	_	_
+76	шахтёры	шахтёр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	77	nsubj	_	_
+77	получали	получать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	63	acl:relcl	_	_
+78	меньшую	малый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	80	amod	_	_
+79	заработную	заработный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	80	amod	_	_
+80	плату	плата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	77	obj	_	_
+81	,	,	PUNCT	_	_	84	punct	_	_
+82	чем	чем	SCONJ	_	_	84	mark	_	_
+83	белые	белый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	84	amod	_	_
+84	иммигранты	иммигрант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	77	obl	_	_
+85	.	.	PUNCT	_	_	56	punct	_	_
+
+
+
+# text = В связи с этой политикой китайцев чаще брали на работу, что вызвало недовольство белых рабочих и впоследствии их бунт.
+86	В	в	ADP	_	_	90	case	_	_
+87	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	86	fixed	_	_
+88	с	с	ADP	_	_	86	fixed	_	_
+89	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing	90	det	_	_
+90	политикой	политика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	93	obl	_	_
+91	китайцев	китаец	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	93	obj	_	_
+92	чаще	чаще	ADV	_	Degree=Cmp	93	advmod	_	_
+93	брали	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+94	на	на	ADP	_	_	95	case	_	_
+95	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	93	obl	_	_
+96	,	,	PUNCT	_	_	98	punct	_	_
+97	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	98	nsubj	_	_
+98	вызвало	вызвать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	93	parataxis	_	_
+99	недовольство	недовольство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	98	obj	_	_
+100	белых	белый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	101	amod	_	_
+101	рабочих	рабочий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	99	nmod	_	_
+102	и	и	CCONJ	_	_	105	cc	_	_
+103	впоследствии	впоследствии	ADV	_	Degree=Pos	105	advmod	_	_
+104	их	они	DET	_	_	105	det	_	_
+105	бунт	бунт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	99	conj	_	_
+106	.	.	PUNCT	_	_	93	punct	_	_
+
+
+
+# text = В ходе беспорядков было убито по меньшей мере 28 китайских шахтёров, 15 были ранены.
+107	В	в	ADP	_	_	109	case	_	_
+108	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	107	fixed	_	_
+109	беспорядков	беспорядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	111	obl	_	_
+110	было	было	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	111	aux:pass	_	_
+111	убито	убить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	0	ROOT	_	_
+112	по	по	ADV	_	_	115	advmod	_	_
+113	меньшей	малый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	112	fixed	_	_
+114	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	112	fixed	_	_
+115	28	28	NUM	_	_	117	nummod	_	_
+116	китайских	китайский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	117	amod	_	_
+117	шахтёров	шахтёр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	111	nsubj:pass	_	_
+118	,	,	PUNCT	_	_	121	punct	_	_
+119	15	15	NUM	_	_	121	nsubj:pass	_	_
+120	были	были	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	121	aux:pass	_	_
+121	ранены	ранить	VERB	_	Aspect=Imp|Number=Plur|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	111	conj	_	_
+122	.	.	PUNCT	_	_	111	punct	_	_
+
+
+
+# text = Мятежники сожгли 75 китайских домов, нанеся ущерб имуществу на общую сумму около 147 тыс. долларов США.
+123	Мятежники	мятежник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	124	nsubj	_	_
+124	сожгли	сжечь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+125	75	75	NUM	_	_	127	nummod	_	_
+126	китайских	китайский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	127	amod	_	_
+127	домов	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	124	obj	_	_
+128	,	,	PUNCT	_	_	129	punct	_	_
+129	нанеся	нанести	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	124	advcl	_	_
+130	ущерб	ущерб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	129	obj	_	_
+131	имуществу	имущество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	129	iobj	_	_
+132	на	на	ADP	_	_	134	case	_	_
+133	общую	общий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	134	amod	_	_
+134	сумму	сумма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	131	nmod	_	_
+135	около	около	ADP	_	_	138	case	_	_
+136	147	147	NUM	_	_	137	nummod	_	_
+137	тыс.	тыс.	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	138	nummod	_	_
+138	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	134	nmod	_	_
+139	США	сша	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	138	nmod	_	_
+140	.	.	PUNCT	_	_	124	punct	_	_
+
+
+

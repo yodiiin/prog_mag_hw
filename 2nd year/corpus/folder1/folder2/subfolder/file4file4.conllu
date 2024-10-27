@@ -1,0 +1,166 @@
+# text = Большие языковые модели учатся на текстовых данных — но в итоге могут не только вести диалог, писать тексты и работать переводчиком: ChatGPT готов и математическую задачу для вас решить, и код написать — предела их возможностей пока не видно.
+1	Большие	больший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	языковые	языковой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	модели	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+4	учатся	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	текстовых	текстовый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	данных	данных	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	obl	_	_
+8	—	—	PUNCT	_	_	12	punct	_	_
+9	но	но	CCONJ	_	_	12	cc	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+12	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+13	не	не	PART	_	Polarity=Neg	15	cc	_	_
+14	только	только	PART	_	_	13	fixed	_	_
+15	вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+16	диалог	диалог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	conj	_	_
+19	тексты	текст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	18	obj	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	conj	_	_
+22	переводчиком	переводчик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	_
+23	:	:	PUNCT	_	_	25	punct	_	_
+24	ChatGPT	chatgpt	PROPN	_	Foreign=Yes	25	nsubj	_	_
+25	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	15	parataxis	_	_
+26	и	и	PART	_	_	28	cc	_	_
+27	математическую	математический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+29	для	для	ADP	_	_	30	case	_	_
+30	вас	вас	PRON	_	Case=Gen|Number=Plur|Person=Second	31	obl	_	_
+31	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	xcomp	_	_
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	и	и	CCONJ	_	_	35	cc	_	_
+34	код	код	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obj	_	_
+35	написать	написать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	31	conj	_	_
+36	—	—	PUNCT	_	_	37	punct	_	_
+37	предела	предела	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	42	nsubj	_	_
+38	их	они	DET	_	_	39	det	_	_
+39	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	37	nmod	_	_
+40	пока	пока	ADV	_	Degree=Pos	42	advmod	_	_
+41	не	не	PART	_	Polarity=Neg	42	advmod	_	_
+42	видно	видно	ADV	_	Degree=Pos	25	conj	_	_
+43	.	.	PUNCT	_	_	4	punct	_	_
+
+
+
+# text = Проблема в том, что скоро этим моделям, кажется, не на чем будет учиться — у специалистов по искусственному интеллекту почти закончился интернет для обучающих датасетов.
+
+
+44	Проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	46	nsubj	_	_
+45	в	в	ADP	_	_	46	case	_	_
+46	том	том	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	ROOT	_	_
+47	,	,	PUNCT	_	_	59	punct	_	_
+48	что	что	SCONJ	_	_	59	mark	_	_
+49	скоро	скоро	ADV	_	Degree=Pos	59	advmod	_	_
+50	этим	этот	DET	_	Case=Dat|Number=Plur	51	det	_	_
+51	моделям	модель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	53	iobj	_	_
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	59	parataxis	_	_
+54	,	,	PUNCT	_	_	53	punct	_	_
+55	не	не	PART	_	Polarity=Neg	57	advmod	_	_
+56	на	на	ADP	_	_	57	case	_	_
+57	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	59	obl	_	_
+58	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	59	aux	_	_
+59	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	46	acl	_	_
+60	—	—	PUNCT	_	_	67	punct	_	_
+61	у	у	ADP	_	_	62	case	_	_
+62	специалистов	специалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	67	obl	_	_
+63	по	по	ADP	_	_	65	case	_	_
+64	искусственному	искусственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	65	amod	_	_
+65	интеллекту	интеллект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	62	nmod	_	_
+66	почти	почти	ADV	_	Degree=Pos	67	advmod	_	_
+67	закончился	закончиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	59	parataxis	_	_
+68	интернет	интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	67	nsubj	_	_
+69	для	для	ADP	_	_	71	case	_	_
+70	обучающих	обучать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	71	amod	_	_
+71	датасетов	датасетов	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	68	nmod	_	_
+72	.	.	PUNCT	_	_	46	punct	_	_
+73	
+
+	
+
+	SPACE	_	_	72	dep	_	_
+
+
+
+# text = В июле в Nature ученые опубликовали исследование, в котором показали, что и сгенерированные тексты могут не решить эту проблему.
+74	В	в	ADP	_	_	75	case	_	_
+75	июле	июль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	79	obl	_	_
+76	в	в	ADP	_	_	77	case	_	_
+77	Nature	nature	PROPN	_	Foreign=Yes	79	obl	_	_
+78	ученые	учёный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	79	nsubj	_	_
+79	опубликовали	опубликовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+80	исследование	исследование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	79	obj	_	_
+81	,	,	PUNCT	_	_	84	punct	_	_
+82	в	в	ADP	_	_	83	case	_	_
+83	котором	котором	PRON	_	Case=Loc|Gender=Masc|Number=Sing	84	obl	_	_
+84	показали	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	80	acl:relcl	_	_
+85	,	,	PUNCT	_	_	90	punct	_	_
+86	что	что	SCONJ	_	_	90	mark	_	_
+87	и	и	PART	_	_	88	advmod	_	_
+88	сгенерированные	сгенерированные	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	89	amod	_	_
+89	тексты	текст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	90	nsubj	_	_
+90	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	84	ccomp	_	_
+91	не	не	PART	_	Polarity=Neg	92	advmod	_	_
+92	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	90	xcomp	_	_
+93	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	94	det	_	_
+94	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	92	obj	_	_
+95	.	.	PUNCT	_	_	79	punct	_	_
+
+
+
+# text = Если использовать для обучения синтетический текст, то языковые модели, возможно, ждет цифровой инбридинг и вырождение.
+96	Если	если	SCONJ	_	_	97	mark	_	_
+97	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	109	advcl	_	_
+98	для	для	ADP	_	_	99	case	_	_
+99	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	97	obl	_	_
+100	синтетический	синтетический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	101	amod	_	_
+101	текст	текст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	97	obj	_	_
+102	,	,	PUNCT	_	_	97	punct	_	_
+103	то	то	SCONJ	_	_	109	mark	_	_
+104	языковые	языковой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	105	amod	_	_
+105	модели	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	109	nsubj	_	_
+106	,	,	PUNCT	_	_	107	punct	_	_
+107	возможно	возможно	ADV	_	Degree=Pos	109	parataxis	_	_
+108	,	,	PUNCT	_	_	107	punct	_	_
+109	ждет	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+110	цифровой	цифровой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	111	amod	_	_
+111	инбридинг	инбридинг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	109	nsubj	_	_
+112	и	и	CCONJ	_	_	113	cc	_	_
+113	вырождение	вырождение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	111	conj	_	_
+114	.	.	PUNCT	_	_	109	punct	_	_
+
+
+
+# text = Разбираемся (https://nplus1.ru/material/2024/10/24/the-web-is-not-enough), так ли серьезна проблема недостатка данных и вырождения языковых моделей и стоит ли вообще тревожиться по поводу будущего генеративного искусственного интеллекта
+115	Разбираемся	разбираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+116	(	(	PUNCT	_	_	117	punct	_	_
+117	https://nplus1.ru/material/2024/10/24/the-web-is-not-enough	https://nplus1.ru/material/2024/10/24/the-web-is-not-enough	PROPN	_	Foreign=Yes	115	appos	_	_
+118	)	)	PUNCT	_	_	117	punct	_	_
+119	,	,	PUNCT	_	_	122	punct	_	_
+120	так	так	ADV	_	Degree=Pos	122	advmod	_	_
+121	ли	ли	PART	_	_	120	fixed	_	_
+122	серьезна	серьёзный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|StyleVariant=Short	115	ccomp	_	_
+123	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	122	nsubj	_	_
+124	недостатка	недостаток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	123	nmod	_	_
+125	данных	данных	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	124	nmod	_	_
+126	и	и	CCONJ	_	_	127	cc	_	_
+127	вырождения	вырождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	125	conj	_	_
+128	языковых	языковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	129	amod	_	_
+129	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	127	nmod	_	_
+130	и	и	CCONJ	_	_	131	cc	_	_
+131	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	122	conj	_	_
+132	ли	ли	PART	_	_	131	advmod	_	_
+133	вообще	вообще	ADV	_	Degree=Pos	134	advmod	_	_
+134	тревожиться	тревожиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	131	csubj	_	_
+135	по	по	ADP	_	_	140	case	_	_
+136	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	135	fixed	_	_
+137	будущего	будущий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	140	amod	_	_
+138	генеративного	генеративный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	140	amod	_	_
+139	искусственного	искусственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	140	amod	_	_
+140	интеллекта	интеллект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	134	obl	_	_
+
+
+
